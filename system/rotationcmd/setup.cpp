@@ -1,0 +1,1 @@
+analog(joystick).filter_average(50);

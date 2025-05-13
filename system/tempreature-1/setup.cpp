@@ -1,0 +1,1 @@
+ds18b20(sensor, D2);

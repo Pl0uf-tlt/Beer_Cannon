@@ -1,0 +1,1 @@
+dht22(sensor, D4);
